@@ -12,6 +12,7 @@ A Python command-line application that evaluates password characteristics and pr
 - Provide improvement suggestions
 - Hide password input in supported terminals
 - No password storage or network transmission
+- Visual password strength meter with percentage score
 
 ## 🛠️ Technologies Used
 
