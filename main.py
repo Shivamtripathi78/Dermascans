@@ -64,6 +64,14 @@ def main():
     print("\n========== RESULTS ==========")
     print(f"Strength: {strength}")
     print(f"Score: {score}/6")
+    
+
+    # Display visual strength bar
+    bar_length = 20
+    filled_length = round((score / 6) * bar_length)
+    progress_bar = "█" * filled_length + "░" * (bar_length - filled_length)
+
+    print(f"Strength Meter: [{progress_bar}] {round((score / 6) * 100)}%")
 
     if suggestions:
         print("\nSuggestions for improvement:")
