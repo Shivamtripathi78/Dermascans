@@ -328,9 +328,8 @@ Fill in the details of your own training run:
 
 ## 👤 Author
 
-**Samarth Shukla**
-B.Tech Computer Science & Engineering
-GitHub: [@Samarth7272](https://github.com/Samarth7272)
+Shivam Tripathi
+GitHub: Shivamtripathi78
 
 ---
 
