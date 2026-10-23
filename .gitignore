@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / Editor
+.vscode/
+.idea/
+.vs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python build files
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+logs/
+
+# Cache
+.cache/
+.pytest_cache/
+.mypy_cache/
+
+# Large ML model files (best.pt is too big for GitHub)
+*.pt
+*.pth
+*.onnx
+*.h5
+*.keras
+*.ckpt
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environment / secrets
+.env
+
+# Root-level data and model files only (the leading slash keeps
+# src/skin_disease_ai/data and src/skin_disease_ai/models tracked)
+/data/
+/models/
+
+# Frontend packages
+frontend/node_modules/
