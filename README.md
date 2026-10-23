@@ -329,6 +329,7 @@ Fill in the details of your own training run:
 ## 👤 Author
 
 Shivam Tripathi
+
 GitHub: Shivamtripathi78
 
 ---
